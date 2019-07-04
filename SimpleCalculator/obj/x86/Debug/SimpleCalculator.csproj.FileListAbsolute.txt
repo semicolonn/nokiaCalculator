@@ -1,0 +1,8 @@
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Form1.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.Properties.Resources.resources
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.exe
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.pdb
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\MASHAL_BCS\5thSemesterMU\CS\CS_PROJECTS\SimpleCalculator\SimpleCalculator\obj\x86\Debug\SimpleCalculator.csproj.GenerateResource.Cache
